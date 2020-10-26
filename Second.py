@@ -1,3 +1,10 @@
+"""#-----------------------------TALLER 5: camara y calibracion---------------------------------------------------------
+                              Erick Steven Badillo Vargas
+                                Ingenieria Electronica
+                           Procesamiento de imagenes y vision
+                                    Julian Quiroga
+                                         2020
+#----------------------------------------------------------------------------------------------------------------------#"""
 import numpy as np
 import cv2
 import json
